@@ -445,6 +445,7 @@ In Termux native desktop, you can access your user files and folders of Android 
 
 - GIMP (pre-installed)
 - Octave (```sudo apt install octave```)
+- TeX Live (```sudo apt install texlive```)
 
 #### Does not work:
 
