@@ -221,7 +221,7 @@ chmod +x ./.shortcuts/startxfce4_termux.sh
 - Click on it and you should be able to lanch **Termux:X11**.
 - Otherwise, in Termux terminal, use ```sh ./startxfce4_termux.sh```
 
-<img src="/img/termux-native.png">
+<img src="/img/termux-android.jpg">
 
 ### 2.5 File sharing with Android
 
@@ -433,7 +433,7 @@ chmod +x ./.shortcuts/startproot_ubuntu.sh
 - Click on it and you should be able to lanch Termux:X11.
 - Otherwise, in Termux terminal, use ```sh ./startproot_ubuntu.sh```
 
-<img src="/img/termux-ubuntu.png">
+<img src="/img/termux-ubuntu.jpg">
 
 ### 3.5 File sharing with Android
 
