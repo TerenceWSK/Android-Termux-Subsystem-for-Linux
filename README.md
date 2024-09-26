@@ -49,7 +49,9 @@ I wrote this tutorial as my personal note & script-bakcups as well as a referenc
 
 Give permission for storage:
 
-```termux-setup-storage```
+```
+termux-setup-storage
+```
 
 Check for updates:
 
